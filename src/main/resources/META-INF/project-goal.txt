@@ -1,0 +1,3 @@
+I wanted to create a model for Annotation representation (and few useful things for annotation like tags and topics). 
+Something generic enough to use it in many of my personal projects.
+I use JPA for peristency.
